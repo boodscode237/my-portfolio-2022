@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/boodscode237/my-portfolio-2022/static/css/main.4115b487.css",
+    "main.js": "/boodscode237/my-portfolio-2022/static/js/main.fe1923ca.js",
+    "static/media/skill3.png": "/boodscode237/my-portfolio-2022/static/media/skill3.0c905598a9d053d0848f.png",
+    "static/media/f_logo.png": "/boodscode237/my-portfolio-2022/static/media/f_logo.e2fc49740e6f008f5575.png",
+    "static/media/hero.png": "/boodscode237/my-portfolio-2022/static/media/hero.e2fc49740e6f008f5575.png",
+    "static/media/logo.png": "/boodscode237/my-portfolio-2022/static/media/logo.e2fc49740e6f008f5575.png",
+    "static/media/contact1.png": "/boodscode237/my-portfolio-2022/static/media/contact1.8ddfbfd11798f881db54.png",
+    "static/media/skill1.png": "/boodscode237/my-portfolio-2022/static/media/skill1.4503085a59eedd317ec8.png",
+    "static/media/skill2.png": "/boodscode237/my-portfolio-2022/static/media/skill2.7f9bd785b2587a6d40c9.png",
+    "index.html": "/boodscode237/my-portfolio-2022/index.html",
+    "main.4115b487.css.map": "/boodscode237/my-portfolio-2022/static/css/main.4115b487.css.map",
+    "main.fe1923ca.js.map": "/boodscode237/my-portfolio-2022/static/js/main.fe1923ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4115b487.css",
+    "static/js/main.fe1923ca.js"
+  ]
+}
